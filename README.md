@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**abiral-adhikari/abiral-adhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Abiral Adhikari</h1>
 <h3 align="center">A ML/DL enthusiast and web backend developer studying Computer Engineering at Kathmandu University, Nepal.</h3>
 
