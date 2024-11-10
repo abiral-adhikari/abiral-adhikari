@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abiral Adhikari</h1>
-<h3 align="center">A ML/DL enthusiast and web backend developer studying Computer Engineering at Kathmandu University, Nepal.</h3>
+<h3 align="center"> An Enthusiatic Computer Engineer in Making at Kathmandu University, Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiral-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="abiral-adhikari" /> </p>
 
@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [adhikariabiral.com.np](adhikariabiral.com.np)
+- 👨‍💻 All of my projects are available [here](https://github.com/abiral-adhikari?tab=repositories)
 
 - 💬 Ask me about **MERN, Deep Learning, NLP,**
 
 - 📫 I can be reached at **abiraladhikari1222@gmail.com**
 
-- 📄 Know about my experiences [adhikariabiral.com.np](adhikariabiral.com.np)
+<!--- 📄 Know about my experiences [adhikariabiral.com.np](adhikariabiral.com.np)-->
 
-- ⚡ Fun fact **I am confused**
+<!--- ⚡ Fun fact **I am confused** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
