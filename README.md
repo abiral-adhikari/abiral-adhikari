@@ -29,8 +29,8 @@
 <a href="https://linkedin.com/in/abiral-adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiral-adhikari" height="30" width="40" /></a>
 <a href="https://kaggle.com/abiraladhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abiraladhikari" height="30" width="40" /></a>
 <a href="https://instagram.com/theabiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theabiral" height="30" width="40" /></a>
-<a href="https://medium.com/@theabiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theabiral" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theabiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theabiral" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@theabiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@theabiral" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/theabiral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theabiral" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiral-adhikari&show_icons=true&locale=en&layout=compact" alt="abiral-adhikari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiral-adhikari&show_icons=true&locale=en" alt="abiral-adhikari" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiral-adhikari&show_icons=true&locale=en" alt="abiral-adhikari" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiral-adhikari&" alt="abiral-adhikari" /></p>
