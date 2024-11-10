@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiral-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="abiral-adhikari" /> </p>
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiral-adhikari" alt="abiral-adhikari" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiral-adhikari" alt="abiral-adhikari" /></a> </p> -->
 
 - 🔭 I’m currently working on [NihonGoGo](https://github.com/abiral-adhikari/NihonGoGo)
 
