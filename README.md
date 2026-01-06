@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiral-adhikari&show_icons=true&locale=en&layout=compact" alt="abiral-adhikari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiral-adhikari&show_icons=true&locale=en" alt="abiral-adhikari" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiral-adhikari&show_icons=true&locale=en" alt="abiral-adhikari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiral-adhikari&" alt="abiral-adhikari" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abiral-adhikari)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abiral-adhikari)](https://git.io/streak-stats) -->
